@@ -26,15 +26,18 @@ h3{
     background-color: #9cccc3;
     position: relative;
     padding-top: 100px;
+    width: 100%;
 }
 p{
     line-height: 2;
 }
 .middle-container{
-    margin-top: 50px;;
+    margin-top: 50px;
+    width: 100%;
 }
 .bottom-container{
     color: #11999E;
+    width: 100%
 }
 .bottom-cloud{
     position: absolute;
